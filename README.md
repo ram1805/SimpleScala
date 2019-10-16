@@ -1,0 +1,2 @@
+# SimpleScala
+Scala code [ractice
